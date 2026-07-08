@@ -4,42 +4,6 @@ Welcome to my **SQL Practice Repository**! 🚀
 
 This repository contains my solutions to SQL problems from various coding platforms. The goal is to strengthen my SQL skills for coding interviews, backend development, database management, and real-world applications.
 
-## 📌 Platforms Covered
-
-- LeetCode SQL
-- GeeksforGeeks (GFG)
-- HackerRank
-- InterviewBit
-- Code360 / Coding Ninjas
-- StrataScratch
-- DataLemur
-- Other SQL interview questions
-
-## 📂 Repository Structure
-
-```
-SQL-Practice/
-│
-├── LeetCode/
-│   ├── Easy/
-│   ├── Medium/
-│   └── Hard/
-│
-├── GFG/
-│
-├── HackerRank/
-│
-├── InterviewBit/
-│
-├── Code360/
-│
-├── DataLemur/
-│
-├── StrataScratch/
-│
-└── Other-Questions/
-```
-
 ## 📖 Topics Covered
 
 - SELECT Statements
