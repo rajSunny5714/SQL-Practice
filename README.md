@@ -4,41 +4,6 @@ Welcome to my **SQL Practice Repository**! 🚀
 
 This repository contains my solutions to SQL problems from various coding platforms. The goal is to strengthen my SQL skills for coding interviews, backend development, database management, and real-world applications.
 
-## 📖 Topics Covered
-
-- SELECT Statements
-- WHERE Clause
-- ORDER BY
-- GROUP BY
-- HAVING
-- Aggregate Functions
-- DISTINCT
-- LIMIT
-- CASE Statements
-- String Functions
-- Date Functions
-- Mathematical Functions
-- JOINs
-  - INNER JOIN
-  - LEFT JOIN
-  - RIGHT JOIN
-  - FULL JOIN
-  - SELF JOIN
-  - CROSS JOIN
-- Subqueries
-- Correlated Subqueries
-- Common Table Expressions (CTEs)
-- Window Functions
-- Ranking Functions
-- UNION & UNION ALL
-- EXISTS & NOT EXISTS
-- Views
-- Constraints
-- Normalization Concepts
-- Stored Procedures (Basics)
-- Recursive Queries
-- Advanced SQL Interview Questions
-
 ## 🎯 Purpose
 
 - Improve SQL problem-solving skills.
@@ -56,21 +21,6 @@ Each solution includes:
 - Difficulty
 - SQL Query
 - Short Explanation (where applicable)
-
-Example:
-
-```sql
--- Problem: Second Highest Salary
--- Platform: LeetCode
--- Difficulty: Medium
-
-SELECT MAX(salary) AS SecondHighestSalary
-FROM Employee
-WHERE salary < (
-    SELECT MAX(salary)
-    FROM Employee
-);
-```
 
 ## 📈 Progress
 
